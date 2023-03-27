@@ -1,0 +1,18 @@
+def myfunction():
+    return True
+print (myfunction())
+
+import random
+print(random.randrange(1,100))
+names = ['Ahmed', 'James', 'Gloria', 'Dafe', 'Precious']
+names = indexValue
+b = indexValue[0]
+c = True
+if b <= 4:
+    while c:
+        c = False
+        a = random.choice(names)
+        print(a)
+        break 
+else:
+    print("The name doesn't exist! ")
