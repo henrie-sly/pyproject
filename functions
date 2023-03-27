@@ -8,6 +8,7 @@ names = ['Ahmed', 'James', 'Gloria', 'Dafe', 'Precious']
 names = indexValue
 b = indexValue[0]
 c = True
+
 if b <= 4:
     while c:
         c = False
